@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<vector>
 
 using namespace std;
@@ -63,4 +63,4 @@ void go(long long n, vector<long long> &ans_v)
 			go(tmp_2, ans_v);
 		}
 	}
-}*/
+}
